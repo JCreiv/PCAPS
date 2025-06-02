@@ -6,7 +6,7 @@
 - **Situación:** Ha recibido correos electrónicos de acoso dirigidos a ella
 - **Sospecha:** Cree que el remitente podría ser un alumno/a de la universidad
 - **Alumnos:**
-	- - Amy Smith
+	- Amy Smith
 	- Burt Greedom
 	- Tuck Gorge
 	- Ava Book
